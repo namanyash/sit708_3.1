@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:id="@+id/congoTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Congratulations!!!"
+        android:textSize="34sp"
+        />
+
+    <TextView
+        android:id="@+id/testScoreView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="24sp"
+        android:layout_marginTop="16dp"
+        />
+
+    <Button
+        android:id="@+id/retakeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retake Quiz"
+        android:layout_marginTop="36dp"
+        />
+
+    <Button
+        android:id="@+id/Finish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Finish" />
+
+</LinearLayout>

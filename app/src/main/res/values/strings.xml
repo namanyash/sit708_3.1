@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Task3.1</string>
+    <string name="q1">Which continent is home to the largest desert in the world, the Sahara?.</string>
+    <string-array name="q1">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>South America</item>
+    </string-array>
+    <string name="q2">Which continent is the smallest in terms of land area?</string>
+    <string name="q3">Which continent is both the most populous and the largest in terms of land area?</string>
+    <string name="q4">Which continent is located entirely in the Southern Hemisphere?</string>
+    <string name="q5">Which continent is the only one that has never had a permanent human population?</string>
+    <string-array name="q2">
+        <item>Australia</item>
+        <item>North America</item>
+        <item>Europe</item>
+        <item>Antarctica</item>
+    </string-array>
+    <string-array name="q3">
+        <item>Asia</item>
+        <item>Africa</item>
+        <item>North America</item>
+        <item>Europe</item>
+    </string-array>
+    <string-array name="q4">
+        <item>Antarctica</item>
+        <item>Africa</item>
+        <item>Europe</item>
+        <item>Asia</item>
+    </string-array>
+    <string-array name="q5">
+        <item>Antarctica</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>North America</item>
+    </string-array>
+</resources>
